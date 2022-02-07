@@ -1,2 +1,2 @@
 # react-random-quote-machine
-FreeCodeCamp.org - Project 1 of 5
+FreeCodeCamp.org - Front End Development Libraries Certification - Project 1 of 5
